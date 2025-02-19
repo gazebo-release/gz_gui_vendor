@@ -2,8 +2,8 @@
 Changelog for package gz_gui_vendor
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+0.2.1 (2025-02-19)
+------------------
 * Bump version to 9.0.1 (`#5 <https://github.com/gazebo-release/gz_gui_vendor/issues/5>`_)
 * Contributors: Carlos Agüero
 
