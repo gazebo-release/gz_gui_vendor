@@ -12,7 +12,7 @@
   -->
   <version>0.2.0</version>
   <description>
-    Vendor package for: gz-gui9 9.0.0
+    Vendor package for: gz-gui9 9.0.1
 
     Gazebo GUI : Graphical interfaces for robotics applications
   </description>
@@ -24,6 +24,7 @@
   <buildtool_depend>ament_cmake_test</buildtool_depend>
   <buildtool_depend>ament_cmake_vendor_package</buildtool_depend>
 
+  <buildtool_depend>cmake</buildtool_depend>
   <build_depend>libqt5-core</build_depend>
   <build_depend>libqt5-qml</build_depend>
   <build_depend>libqt5-quick</build_depend>
