@@ -2,6 +2,15 @@
 Changelog for package gz_gui_vendor
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+Forthcoming
+-----------
+* Jetty support, 10.0.0-pre1 (`#6 <https://github.com/gazebo-release/gz_gui_vendor/issues/6>`_)
+  * Jetty support: 10.0.0-pre1
+  * Update to pre2, update CMakeLists based on upstream fix
+  ---------
+  Co-authored-by: Addisu Z. Taddese <addisu@openrobotics.org>
+* Contributors: Steve Peters
+
 0.2.1 (2025-02-19)
 ------------------
 * Bump version to 9.0.1 (`#5 <https://github.com/gazebo-release/gz_gui_vendor/issues/5>`_)
