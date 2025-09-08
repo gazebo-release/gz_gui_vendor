@@ -2,8 +2,8 @@
 Changelog for package gz_gui_vendor
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+0.3.0 (2025-09-08)
+------------------
 * Jetty support, 10.0.0-pre1 (`#6 <https://github.com/gazebo-release/gz_gui_vendor/issues/6>`_)
   * Jetty support: 10.0.0-pre1
   * Update to pre2, update CMakeLists based on upstream fix
