@@ -2,8 +2,8 @@
 Changelog for package gz_gui_vendor
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+0.2.4 (2026-09-04)
+------------------
 * Revert "Enable Python bindings (`#13 <https://github.com/gazebo-release/gz_gui_vendor/issues/13>`_)" (`#15 <https://github.com/gazebo-release/gz_gui_vendor/issues/15>`_)
   * Revert "Enable Python bindings (`#13 <https://github.com/gazebo-release/gz_gui_vendor/issues/13>`_)"
   This reverts commit 57ee2f8368907282b876d8c7dc630548be1ce415.
